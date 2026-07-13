@@ -94,8 +94,7 @@ Emotion recognition is sensitive, so the honest recommendation is a cautious one
 
 ```
 ├── README.md
-├── notebook/
-│   └── facial_emotion_detection.ipynb   # full code: EDA → 7 models → tuning → evaluation
+├── facial_emotion_detection.ipynb   # full code: EDA → 7 models → tuning → evaluation
 └── assets/                              # charts and confusion matrix
 ```
 
